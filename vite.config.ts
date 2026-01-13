@@ -7,7 +7,7 @@ const isProduction = process.env.NODE_ENV === 'production';
 
 // This ensures the base path is set correctly for GitHub Pages
 export default defineConfig(({ mode }) => ({
-  base: mode === 'production' ? '/mic/' : '/',  // Keep it as is, OR try changing to './'
+  base: '/',
   server: {
     host: "0.0.0.0",
     port: 8080,
