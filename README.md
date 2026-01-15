@@ -33,7 +33,7 @@ A comprehensive, serverless courier management system designed to streamline int
 Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/yourusername/majithia-courier.git](https://github.com/KeshavMajithia/m.git)
+git clone https://github.com/KeshavMajithia/m.git
 cd majithia-courier
 npm install
 ```
